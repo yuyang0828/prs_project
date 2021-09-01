@@ -17,3 +17,7 @@ Node (depends on os)
 ### todo
 错误处理
 csrf 验证
+
+### reference
+https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react
+https://bennettgarner.medium.com/react-on-django-getting-started-f30de8d23504
